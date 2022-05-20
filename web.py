@@ -6,4 +6,5 @@ print('ameer')
 print('fama')
 print('mom')
 print('dell')
-
+print('yacou')
+print('lize')
